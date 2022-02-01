@@ -4,7 +4,7 @@
 <h1 align="left">Ganz Bot</h1>
 
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIX42RUhLi15MBXhfvrF6K)
+[![chat me WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//6281339888334)
 
 # Ganz Bot
 Ganz bot adalah bot whatsapp hasil pe-nggarapan ulang dari RiskiRj/stikerinbot yang sudah di edit agar bisa di jalankan di termux.
