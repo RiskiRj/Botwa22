@@ -24,3 +24,8 @@ node . (option)
 Thank to
 Allah SWT 
 Riski creator
+
+[![RiskiRj](https://github.com/RiskiRj.png
+----|----|----
+[RiskiRj](https://github.com/RiskiRj) 
+ Pencipta 
