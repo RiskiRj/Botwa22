@@ -12,10 +12,10 @@ Ganz bot adalah bot whatsapp hasil pe-nggarapan ulang dari RiskiRj/stikerinbot y
 # Termux
 NOTE: untuk pengguna termux yang ingin menggunakan fitur nhentai(dari module nhentai-node-api) harap aktifkan dns (dns.google) agar bisa mengakses fitur (kena internet positif)
 ```
-apt install ffmpeg
-apt install imagemagick
-apt install nodejs
-apt install git
+pkg install ffmpeg
+pkg install imagemagick
+pkg install nodejs
+pkg install git
 git clone https://github.com/RiskiRj/Botwa22.git
 cd Ganzbot
 npm i
@@ -24,8 +24,8 @@ node . (option)
 Thank to
 Allah SWT 
 Riski creator
-
-
 ----|----|----
-[RiskiRj](https://github.com/RiskiRj) 
- Pencipta 
+
+
+ 
+
