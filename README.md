@@ -11,7 +11,7 @@
 
 # Ganz Bot
 Ganz bot adalah bot whatsapp hasil pe-nggarapan ulang dari Riski Ganz yang sudah di edit agar bisa di jalankan di termux.
-Ganz bot juga dapat di jalankan di termux,Heroku, Replit
+Ganz bot juga dapat di jalankan di termux, Replit
 # Termux
 NOTE: untuk pengguna termux yang ingin menggunakan fitur nhentai(dari module nhentai-node-api) harap aktifkan dns (dns.google) agar bisa mengakses fitur (kena internet positif)
 ```
