@@ -10,6 +10,9 @@
 # Ganz Bot
 Ganz bot adalah bot whatsapp yang di bangun dari nodejs.
 
+
+
+
 # Termux
 NOTE: untuk pengguna termux yang ingin menggunakan fitur nhentai(dari module nhentai-node-api) harap aktifkan dns (dns.google) agar bisa mengakses fitur (kena internet positif)
 ```
